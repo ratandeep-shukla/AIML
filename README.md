@@ -4,3 +4,4 @@ this is the sample codes of AIML with:
 3.deep learning
 4.agentic ai
 and some projeects
+https://github.com/ratandeep-shukla/AIML/blob/main/ML_projects/diabetes_predicton_dataset.csv
